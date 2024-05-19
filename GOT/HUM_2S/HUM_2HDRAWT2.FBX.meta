@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: f0e167e3bbfd0eb488bad0dc5d8b1d0a
+timeCreated: 1459385136
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Foot
+    100012: Bip01 L Forearm
+    100014: Bip01 L Hand
+    100016: Bip01 L Thigh
+    100018: Bip01 L Toe0
+    100020: Bip01 L UpperArm
+    100022: Bip01 Neck
+    100024: Bip01 Pelvis
+    100026: Bip01 R Calf
+    100028: Bip01 R Clavicle
+    100030: Bip01 R Finger0
+    100032: Bip01 R Foot
+    100034: Bip01 R Forearm
+    100036: Bip01 R Hand
+    100038: Bip01 R Thigh
+    100040: Bip01 R Toe0
+    100042: Bip01 R UpperArm
+    100044: Bip01 Spine
+    100046: Bip01 Spine1
+    100048: Bip01 Spine2
+    100050: //RootNode
+    100052: zm_Skin
+    100054: ZS_BOW
+    100056: ZS_CROSSBOW
+    100058: ZS_HELMET
+    100060: ZS_LEFTARM
+    100062: ZS_LEFTHAND
+    100064: ZS_LONGSWORD
+    100066: ZS_RIGHTHAND
+    100068: ZS_SHIELD
+    100070: ZS_SWORD
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Foot
+    400012: Bip01 L Forearm
+    400014: Bip01 L Hand
+    400016: Bip01 L Thigh
+    400018: Bip01 L Toe0
+    400020: Bip01 L UpperArm
+    400022: Bip01 Neck
+    400024: Bip01 Pelvis
+    400026: Bip01 R Calf
+    400028: Bip01 R Clavicle
+    400030: Bip01 R Finger0
+    400032: Bip01 R Foot
+    400034: Bip01 R Forearm
+    400036: Bip01 R Hand
+    400038: Bip01 R Thigh
+    400040: Bip01 R Toe0
+    400042: Bip01 R UpperArm
+    400044: Bip01 Spine
+    400046: Bip01 Spine1
+    400048: Bip01 Spine2
+    400050: //RootNode
+    400052: zm_Skin
+    400054: ZS_BOW
+    400056: ZS_CROSSBOW
+    400058: ZS_HELMET
+    400060: ZS_LEFTARM
+    400062: ZS_LEFTHAND
+    400064: ZS_LONGSWORD
+    400066: ZS_RIGHTHAND
+    400068: ZS_SHIELD
+    400070: ZS_SWORD
+    2300000: Bip01
+    2300002: Bip01 Head
+    2300004: Bip01 L Calf
+    2300006: Bip01 L Clavicle
+    2300008: Bip01 L Finger0
+    2300010: Bip01 L Foot
+    2300012: Bip01 L Forearm
+    2300014: Bip01 L Hand
+    2300016: Bip01 L Thigh
+    2300018: Bip01 L Toe0
+    2300020: Bip01 L UpperArm
+    2300022: Bip01 Neck
+    2300024: Bip01 Pelvis
+    2300026: Bip01 R Calf
+    2300028: Bip01 R Clavicle
+    2300030: Bip01 R Finger0
+    2300032: Bip01 R Foot
+    2300034: Bip01 R Forearm
+    2300036: Bip01 R Hand
+    2300038: Bip01 R Thigh
+    2300040: Bip01 R Toe0
+    2300042: Bip01 R UpperArm
+    2300044: Bip01 Spine
+    2300046: Bip01 Spine1
+    2300048: Bip01 Spine2
+    2300050: ZS_BOW
+    2300052: ZS_CROSSBOW
+    2300054: ZS_HELMET
+    2300056: ZS_LEFTARM
+    2300058: ZS_LEFTHAND
+    2300060: ZS_LONGSWORD
+    2300062: ZS_RIGHTHAND
+    2300064: ZS_SHIELD
+    2300066: ZS_SWORD
+    3300000: Bip01
+    3300002: Bip01 Head
+    3300004: Bip01 L Calf
+    3300006: Bip01 L Clavicle
+    3300008: Bip01 L Finger0
+    3300010: Bip01 L Foot
+    3300012: Bip01 L Forearm
+    3300014: Bip01 L Hand
+    3300016: Bip01 L Thigh
+    3300018: Bip01 L Toe0
+    3300020: Bip01 L UpperArm
+    3300022: Bip01 Neck
+    3300024: Bip01 Pelvis
+    3300026: Bip01 R Calf
+    3300028: Bip01 R Clavicle
+    3300030: Bip01 R Finger0
+    3300032: Bip01 R Foot
+    3300034: Bip01 R Forearm
+    3300036: Bip01 R Hand
+    3300038: Bip01 R Thigh
+    3300040: Bip01 R Toe0
+    3300042: Bip01 R UpperArm
+    3300044: Bip01 Spine
+    3300046: Bip01 Spine1
+    3300048: Bip01 Spine2
+    3300050: ZS_BOW
+    3300052: ZS_CROSSBOW
+    3300054: ZS_HELMET
+    3300056: ZS_LEFTARM
+    3300058: ZS_LEFTHAND
+    3300060: ZS_LONGSWORD
+    3300062: ZS_RIGHTHAND
+    3300064: ZS_SHIELD
+    3300066: ZS_SWORD
+    4300000: Bip01
+    4300002: Bip01 Pelvis
+    4300004: Bip01 Spine
+    4300006: Bip01 Spine1
+    4300008: Bip01 Spine2
+    4300010: Bip01 Neck
+    4300012: Bip01 Head
+    4300014: ZS_HELMET
+    4300016: Bip01 L Clavicle
+    4300018: Bip01 L UpperArm
+    4300020: Bip01 L Forearm
+    4300022: Bip01 L Hand
+    4300024: Bip01 L Finger0
+    4300026: ZS_LEFTHAND
+    4300028: ZS_LEFTARM
+    4300030: Bip01 R Clavicle
+    4300032: Bip01 R UpperArm
+    4300034: Bip01 R Forearm
+    4300036: Bip01 R Hand
+    4300038: Bip01 R Finger0
+    4300040: ZS_RIGHTHAND
+    4300042: ZS_CROSSBOW
+    4300044: ZS_LONGSWORD
+    4300046: ZS_SHIELD
+    4300048: ZS_BOW
+    4300050: ZS_SWORD
+    4300052: Bip01 L Thigh
+    4300054: Bip01 L Calf
+    4300056: Bip01 L Foot
+    4300058: Bip01 L Toe0
+    4300060: Bip01 R Thigh
+    4300062: Bip01 R Calf
+    4300064: Bip01 R Foot
+    4300066: Bip01 R Toe0
+    4300068: zm_Skin
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: zm_Skin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
