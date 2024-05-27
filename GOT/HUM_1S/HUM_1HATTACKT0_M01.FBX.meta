@@ -686,7 +686,7 @@ ModelImporter:
       name: PreAttackR
       takeName: Take 001
       internalID: 8069544894991528799
-      firstFrame: 20
+      firstFrame: 24
       lastFrame: 25
       wrapMode: 0
       orientationOffsetY: 0
@@ -715,7 +715,7 @@ ModelImporter:
       name: AttackR
       takeName: Take 001
       internalID: 2937323276152918717
-      firstFrame: 25
+      firstFrame: 29
       lastFrame: 49
       wrapMode: 0
       orientationOffsetY: 0
