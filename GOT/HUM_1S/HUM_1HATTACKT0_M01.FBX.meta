@@ -741,7 +741,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: ProstAttackR
+      name: PostAttackR
       takeName: Take 001
       internalID: -7250552745428221069
       firstFrame: 49
